@@ -13,7 +13,6 @@
 ### 🚀 About Me
 
 - 💻 **Self-taught backend developer** passionate about building robust, maintainable, and scalable applications using C# and ASP.NET Core.
-- 🛫 Former flight attendant, now flying in the world of code!
 - 🏢 Based in Tehran, interested in remote work & open-source contributions.
 - 🎓 Bootcamp graduate (C# and ASP.NET), lifelong learner & tech enthusiast.
 - 🧑‍💻 Working on real projects (Task Manager, Meeting Manager, Phonebook, E-Library, and more).
