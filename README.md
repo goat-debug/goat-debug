@@ -58,7 +58,5 @@ Check out my pinned repositories below for source code!
 - Telegram: (@emech)
 - LinkedIn: (https://www.linkedin.com/in/mohammad-h-amini-11b191333)
 
----
 
-**Let’s build something awesome together!**
 
