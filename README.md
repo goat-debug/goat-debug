@@ -57,7 +57,7 @@ Check out my pinned repositories below for source code!
 
 - Email: (mhamini380@gmail.com) for remote work, collaboration, or just to say hi!
 - Telegram: (@emech)
-- LinkedIn: (https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BvlgAEVRMTvm%2BAczvT4ryuA%3D%3D)
+- LinkedIn: (https://www.linkedin.com/in/mohammad-h-amini-11b191333)
 
 ---
 
