@@ -2,7 +2,7 @@
 **goat-debug/goat-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi, I'm Mohammad Hossein Amini 👋</h1>
+<h1 align="center">Hi, I'm Mohammad H Amini 👋</h1>
 <p align="center">
   <b>Backend Developer | ASP.NET Core | C# | SQL Server | Clean Architecture Enthusiast</b><br>
   <a href="https://github.com/goat-debug">GitHub: goat-debug</a>
