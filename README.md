@@ -54,7 +54,7 @@ Check out my pinned repositories below for source code!
 
 ### 📫 Contact
 
-- Email: (mhamini380@gmail.com) for remote work, collaboration, or just to say hi!
+- Email: (goatdebug@proton.me) for remote work, collaboration, or just to say hi!
 - Telegram: (@emech)
 - LinkedIn: (https://www.linkedin.com/in/mohammad-h-amini-11b191333)
 
